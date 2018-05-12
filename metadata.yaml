@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '32816'
     url: http://www.gutenberg.org/2009/agents/32816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27645#The-Beginning
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-12-28'
 gutenberg_type: Text
